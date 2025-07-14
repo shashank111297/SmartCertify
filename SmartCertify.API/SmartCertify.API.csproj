@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SmartCertify.Application\SmartCertify.Application.csproj" />
+    <ProjectReference Include="..\SmartCertify.Domain\SmartCertify.Domain.csproj" />
+    <ProjectReference Include="..\SmartCertify.Infrastructure\SmartCertify.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

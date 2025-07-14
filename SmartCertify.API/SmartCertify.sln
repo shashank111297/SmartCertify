@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCertify", "SmartCertify.csproj", "{F5C5CA1A-B67E-4B13-AE6B-BDD6E210DBFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCertify.API", "SmartCertify.API.csproj", "{F5C5CA1A-B67E-4B13-AE6B-BDD6E210DBFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCertify.Domain", "..\SmartCertify.Domain\SmartCertify.Domain.csproj", "{27F05481-1E32-4759-90C0-AF584374BC9B}"
 EndProject
